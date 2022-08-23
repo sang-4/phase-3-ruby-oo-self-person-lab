@@ -77,4 +77,5 @@ class Person
 
     end
 end
-# p1 = Person.new("Sang")
+
+binding.pry
